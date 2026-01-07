@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Vasil Maker",
+  "classifications": [
+    "Web",
+    "Clean Architecture Project",
+    "API",
+    "Microservice"
+  ],
+  "identity": "vasilmaker.cleanarchitecture.template",
+  "name": "Clean Architecture Project by Sergei Kamianetskii",
+  "description": "Clean Architecture. Author: Vasil Maker",
+  "shortName": "Capi",
+  "sourceName": "Capi",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
