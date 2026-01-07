@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
 		<PackageType>Template</PackageType>
-		<PackageVersion>1.0.0</PackageVersion>
+		<PackageVersion>1.0.1</PackageVersion>
 		<PackageId>vasilmaker.cleanarchitecture.template</PackageId>
 		<Title>Clean Architecture Project Template</Title>
 		<Authors>Vasil Maker</Authors>
@@ -12,7 +12,7 @@
 		<IncludeBuildOutput>false</IncludeBuildOutput>
 		<ContentTargetFolders>content</ContentTargetFolders>
 		<NoWarn>$(NoWarn);NU5128</NoWarn>
-		<RepositoryUrl>https://github.com/iksergey/dotnet-clean-architecture-template</RepositoryUrl>
+		<RepositoryUrl>https://github.com/Vasil-maker/dotnet-clean-architecture-template</RepositoryUrl>
 		<PackageLicenseExpression>empty</PackageLicenseExpression>
 	</PropertyGroup>
 	<ItemGroup>
